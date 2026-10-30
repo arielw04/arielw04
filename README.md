@@ -10,7 +10,7 @@ I'm interested in **software engineering, applied AI, and machine learning**. My
 - **Tools and environments:** Git/GitHub, Autodesk (CAD design), Visual Studio Code
 
 ### Projects and coursework
-I'm organizing selected projects from my programming coursework, including C++ data structures and web development work. Repositories and documentation will be added as the projects are reviewed and polished.
+I'm organizing my coursework and general projects. Repositories and documentation will be added as the projects are reviewed and polished.
 
 ### What I'm exploring
 - Building practical applications with Python and AI tools
