@@ -4,7 +4,7 @@ I'm a student at **Florida State University**, studying **Computer Programming a
 
 I'm interested in **software engineering, applied AI, machine learning, and game development**. I enjoy building projects that combine technical problem-solving with creative interests like music and games.
 
-### 🛠️ Technical experience
+###  Technical experience
 - **Programming:** C++, Python, JavaScript, HTML, CSS
 - **Coursework and concepts:** Data structures and algorithms, object-oriented programming, web development, computer organization
 - **Tools and environments:** Git/GitHub, Unity, Visual Studio Code
