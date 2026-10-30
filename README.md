@@ -13,8 +13,9 @@ I'm interested in **software engineering, applied AI, and machine learning**. My
 I'm organizing my coursework and general projects. Repositories and documentation will be added as the projects are reviewed and polished.
 
 ### What I'm exploring
-- Building practical applications with Python and AI tools
-- Music analytics and data-driven applications
+- Building practical software projects
+- Using AI tools in software development
+- Improving my development, debugging, and problem-solving skills
 
 ### Opportunities
 I'm interested in **2027 early-career and internships for software or applied AI opportunities**, including roles at startups and teams building useful products.
