@@ -18,7 +18,7 @@ I'm organizing my coursework and general projects. Repositories and documentatio
 - Writing cleaner code and improving how I debug and test my programs
 
 ### Opportunities
-I'm interested in **software development internships and early-career opportunities for 2027**, where I can contribute my programming skills, learn from experienced developers, and help build useful software.
+I'm looking for **entry-level software development roles** as I approach graduation in **summer 2027**. I'm also open to **internships** where I can contribute my coding skills and gain hands-on experience.
 
 ---
 *This profile is a work in progress as I publish and document my projects.*
