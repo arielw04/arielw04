@@ -1,4 +1,4 @@
-# Hi, I'm Ariel 👋
+# Hi, I'm Ariel Wundke
 
 I'm a student at **Florida State University**, studying **Computer Programming and Applications** in the Department of Computer Science, with a minor in **Innovation**. I expect to graduate in **summer 2027**.
 
@@ -12,13 +12,13 @@ I'm interested in **software engineering, applied AI, machine learning, and game
 ### 💻 Projects and coursework
 I'm organizing selected projects from my programming coursework, including C++ data structures and web development work. Repositories and documentation will be added as the projects are reviewed and polished.
 
-### 🎯 What I'm exploring
+### What I'm exploring
 - Building practical applications with Python and AI tools
 - Music analytics and data-driven applications
 - Gameplay programming and interactive systems
 
-### 🤝 Opportunities
-I'm interested in **2027 internships and early-career software or applied AI opportunities**, including roles at startups and teams building useful products.
+### Opportunities
+I'm interested in **2027 early-career and internships for software or applied AI opportunities**, including roles at startups and teams building useful products.
 
 ---
 *This profile is a work in progress as I publish and document my projects.*
