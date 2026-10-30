@@ -2,7 +2,7 @@
 
 I'm a student at **Florida State University**, studying **Computer Programming and Applications** in the Department of Computer Science, with a minor in **Innovation**. I expect to graduate in **summer 2027**.
 
-I'm interested in **software engineering, applied AI, and machine learning**. My love of games helped spark my interest in programming and influenced the path I'm on today. I also enjoy music and building projects that connect my technical and creative interests.
+I'm focused on **software development, problem-solving, and writing clear, reliable code**. My love of games helped spark my interest in programming and influenced the path I'm on today. I also enjoy music and building projects that connect my technical and creative interests.
 
 ###  Technical experience
 - **Programming:** C++, Python, JavaScript, HTML, CSS
@@ -13,12 +13,12 @@ I'm interested in **software engineering, applied AI, and machine learning**. My
 I'm organizing my coursework and general projects. Repositories and documentation will be added as the projects are reviewed and polished.
 
 ### What I'm exploring
-- Building practical software projects
-- Using AI tools in software development
-- Improving my development, debugging, and problem-solving skills
+- Building software projects that put my coding skills into practice
+- Strengthening my understanding of data structures and algorithms
+- Writing cleaner code and improving how I debug and test my programs
 
 ### Opportunities
-I'm interested in **2027 early-career and internships for software or applied AI opportunities**, including roles at startups and teams building useful products.
+I'm interested in **software development internships and early-career opportunities for 2027**, where I can contribute my programming skills, learn from experienced developers, and help build useful software.
 
 ---
 *This profile is a work in progress as I publish and document my projects.*
