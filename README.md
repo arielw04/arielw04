@@ -7,7 +7,7 @@ I'm interested in **software engineering, applied AI, machine learning, and game
 ###  Technical experience
 - **Programming:** C++, Python, JavaScript, HTML, CSS
 - **Coursework and concepts:** Data structures and algorithms, object-oriented programming, web development, computer organization
-- **Tools and environments:** Git/GitHub, Unity, Visual Studio Code
+- **Tools and environments:** Git/GitHub, Autodesk (CAD design), Visual Studio Code
 
 ### Projects and coursework
 I'm organizing selected projects from my programming coursework, including C++ data structures and web development work. Repositories and documentation will be added as the projects are reviewed and polished.
