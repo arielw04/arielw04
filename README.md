@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Ariel 👋
 
-<!--
-**arielw04/arielw04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student at **Florida State University**, studying **Computer Programming and Applications** in the Department of Computer Science, with a minor in **Innovation**. I expect to graduate in **summer 2027**.
 
-Here are some ideas to get you started:
+I'm interested in **software engineering, applied AI, machine learning, and game development**. I enjoy building projects that combine technical problem-solving with creative interests like music and games.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical experience
+- **Programming:** C++, Python, JavaScript, HTML, CSS
+- **Coursework and concepts:** Data structures and algorithms, object-oriented programming, web development, computer organization
+- **Tools and environments:** Git/GitHub, Unity, Visual Studio Code
+
+### 💻 Projects and coursework
+I'm organizing selected projects from my programming coursework, including C++ data structures and web development work. Repositories and documentation will be added as the projects are reviewed and polished.
+
+### 🎯 What I'm exploring
+- Building practical applications with Python and AI tools
+- Music analytics and data-driven applications
+- Gameplay programming and interactive systems
+
+### 🤝 Opportunities
+I'm interested in **2027 internships and early-career software or applied AI opportunities**, including roles at startups and teams building useful products.
+
+---
+*This profile is a work in progress as I publish and document my projects.*
